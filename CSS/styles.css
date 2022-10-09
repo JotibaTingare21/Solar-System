@@ -1,0 +1,147 @@
+body{
+  text-align: center;
+  margin: 0px;
+}
+
+.top-container{
+  background-color: #f18973;
+}
+
+h1{
+    margin: 0px;
+    font-size: 70px;
+    padding-top: 0px;
+    color: #06283D;
+    font-family: 'Sacramento', cursive;
+
+}
+
+h3{
+   margin: 20px 0px;
+    color: #06283D;
+    font-family: 'Comic Neue', cursive;
+    font-size: 30px;
+}
+
+.jupiter{
+  margin: 0px;
+    padding-left: 60px;
+    padding-top: 150px;
+    padding-bottom: 60px;
+}
+
+.half-earth{
+  padding-right: 1150px;
+}
+
+h2{
+  font-size: 100px;
+ padding-left: 100px;
+  font-family: 'Comic Neue', cursive;
+  color: #06283D;
+}
+
+a{
+  color: #06283D;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #FAFDD6;
+}
+ p{
+   font-size: 30px;
+  padding-left: 100px;
+   font-family: 'Comic Neue', cursive;
+   color: #06283D;
+}
+
+
+.container1{
+  background-color: #FF9F29;
+  padding: 100px 0 100px;
+}
+
+.saturn{
+  padding-top: 50px;
+  padding-left: 30px;
+}
+.container2{
+  background-color: #083AA9;
+  padding: 65px 0 100px;
+}
+
+.uranus{
+  padding-top: 50px;
+  padding-right: 30px;
+}
+
+.container3{
+  background-color: #F5EFE6;
+  padding: 65px 0 100px;
+}
+
+.Neptune{
+  padding-top: 50px;
+  padding-left: 50px;
+}
+
+.container4{
+  background-color: #5BB318;
+  padding: 65px 0 100px;
+}
+
+.earth{
+  padding-top: 50px;
+  padding-right: 50px;
+}
+
+.container5{
+  background-color: #EB4747;
+  padding: 65px 0 100px;
+}
+
+.venus{
+  padding-top: 50px;
+  padding-left: 50px;
+}
+
+.container6{
+  background-color: #F76E11;
+  padding: 65px 0 100px;
+}
+
+.mars{
+    padding-top: 50px;
+    padding-right: 50px;
+  }
+
+.container7{
+  background-color: #D7C0AE;
+  padding: 65px 0 100px;
+}
+
+.saturn{
+  padding-top: 50px;
+  padding-left: 50px;
+}
+
+.container8{
+  background-color: #B7C4CF;
+  padding: 65px 0 100px;
+}
+
+.mercury{
+    padding-top: 50px;
+    padding-right: 50px;
+  }
+
+.container9{
+  background-color: #FAFDD6;
+  padding: 25px 0 30px;
+}
+
+.bottom-container{
+  background-color: #95D1CC;
+  padding: 20px 0 60px;
+}
